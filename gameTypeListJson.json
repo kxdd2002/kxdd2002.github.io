@@ -1,0 +1,22 @@
+{"pagingBean":
+	
+	{"curPage":1,"indexes":[0,8],
+		"items":[
+			{"code":"1_13_93","countGame":42,
+				"games":[],"iconNameAppclient":"",
+				"iconNamePhone":"/files/infoSection/13-12/20131203122356_RPG.png",
+				"id":93,"name":"角色扮演"
+				},
+				{"code":"1_13_92","countGame":1,
+					"games":[],"iconNameAppclient":"",
+					"iconNamePhone":"/files/infoSection/13-12/20131203122136_dz.png","id":92,
+					"name":"动作游戏"
+					},
+					{"code":"1_13_107","countGame":5,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSectionnull","id":107,"name":"冒险解谜"},{"code":"1_13_109","countGame":32,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSectionnull","id":109,"name":"体育运动"},
+					{"code":"1_13_95","countGame":34,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSection/13-12/20131203122637_xx.png","id":95,"name":"休闲益智"},{"code":"1_13_98","countGame":3,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSection/13-12/20131203122949_qp.png","id":98,"name":"棋牌天地"},
+					{"code":"1_13_96","countGame":50,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSection/13-12/20131203122723_mn.png","id":96,"name":"模拟经营"},{"code":"1_13_106","countGame":0,"games":[],"iconNameAppclient":"","iconNamePhone":"/files/infoSectionnull","id":106,"name":"策略塔防"}
+					],
+			
+			"nexPage":2,"nextIndex":8,"pageSize":8,"prePage":1,"previousIndex":0,"startIndex":0,"totalCount":15,"totalPage":2
+		}
+	}
